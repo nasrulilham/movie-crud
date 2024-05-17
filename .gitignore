@@ -134,6 +134,8 @@ node_modules
 package-lock.json
 *.gz
 
+.idea
+
 # Benchmarking
 benchmarks/graphs
 
